@@ -29,6 +29,8 @@ git clone https://github.com/omkardusane/electron-media-organizer.git
 2. Install dependencies:
 ```bash
 npm install
+npm run build:main
+npm run build:renderer
 ```
 
 3. Start the application:
